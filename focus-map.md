@@ -157,6 +157,16 @@ If they want changes, update and present again. Once they confirm, deliver:
 >
 > You just mapped where AI belongs in your work by having a conversation. That's the whole point.
 
+### If `MEMORY_KIT_FOUND` from Step 1: offer to route the map into their agenda
+
+Their machine runs the memory system, which means their priorities already have a durable home: the project agenda (`AGENDA.md`). The map is the lens; the agenda is the ledger. After they confirm the map, offer to carry the decisions there:
+
+> One more thing, since your projects track priorities in an agenda. Want me to write the priority that survived the pressure test into your AGENDA.md, along with any items from the map that belong there? If your work spans more than one project, tell me which project owns which item and I'll route each one to its own agenda.
+
+If they say yes, read each agenda before writing so additions match its structure and conventions. New items enter at the bottom of the queue (in FOR SURE if the agenda uses that section), each with a one-line why drawn from the map. The map itself still lives in the conversation; the agenda is where the decisions land.
+
+If `STANDALONE`, the copy-it instruction above already covers them.
+
 End warmly. They just did something most people skip: they stopped to think clearly about where to focus before building anything.
 
 ---
